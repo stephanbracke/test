@@ -1,0 +1,11 @@
+title: INTERMAGNET Technical Reference Manual
+author: INTERMAGNET
+description: International Technical Reference Manual
+
+defaults:
+  -
+    values:
+      layout: "default"
+collections:
+  faq:
+    output: true
