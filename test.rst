@@ -1,6 +1,6 @@
 | Since Pythagoras, we know that :math:`(a^2 + b^2) = c^2`
 | another example :math:`\frac{ \sum_{t=0}^{N}f(t,k) }{N}`
-some changes
+|
 |
 +-------+----------+------+
 | Table Headings   | Here |
